@@ -1,4 +1,4 @@
 git clone https://github.com/erwinabs/dt_common.git -b rising device/xiaomi/sm8250-common
-git clone git clone https://github.com/Bt-aja/xiaomi_sm8250.git -b munch kernel/xiaomi/sm8250 --depth=1
+git clone https://github.com/Bt-aja/xiaomi_sm8250.git -b munch kernel/xiaomi/sm8250 --depth=1
 git clone https://github.com/erwinabs/dt_munch.git -b rising device/xiaomi/munch
 git clone https://gitlab.com/Yaelahwin/vendor_xiaomi.git -b 14 vendor/xiaomi
