@@ -1,0 +1,6 @@
+git clone https://github.com/erwinabs/dt_common.git -b yaapnew device/xiaomi/sm8250-common
+git clone https://github.com/Bt-aja/xiaomi_sm8250.git -b munch kernel/xiaomi/sm8250 --depth=1
+git clone https://github.com/erwinabs/dt_munch.git -b yaap device/xiaomi/munch
+git clone https://gitlab.com/Yaelahwin/vendor_xiaomi.git -b yaap vendor/xiaomi
+git clone https://github.com/LineageOS/android_hardware_xiaomi hardware/xiaomi
+git clone https://github.com/PixelExperience/packages_resources_devicesettings packages/resources/devicesettings
